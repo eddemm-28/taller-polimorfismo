@@ -24,3 +24,7 @@ mvn test
 mvn compile
 mvn exec:java -Dexec.mainClass="edu.unicauca.practice.figures.Client"
 ```
+
+## Nota sobre el desarrollo
+
+Para la implementación se utilizó asistencia de una herramienta de IA con el fin de aprender a usar Git, GitHub y VS Code en Linux, así como para generar la estructura inicial del proyecto Maven y las pruebas unitarias. Me hago responsable y doy respuesta de todo el contenido del proyecto.
